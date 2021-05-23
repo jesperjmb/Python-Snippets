@@ -1,4 +1,4 @@
-#Compare a pandas dataframe column witn a list.
+#Compare a pandas dataframe column witn a list
 #Requires Pandas
 
 #Creating example DataFrame
